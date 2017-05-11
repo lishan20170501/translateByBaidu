@@ -1,0 +1,2 @@
+# translateByBaidu
+Python,baidu API
